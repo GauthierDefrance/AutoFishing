@@ -1,4 +1,4 @@
-# FIVE M - AutoFishing
+# AutoFishing
 
 ### This programms can read skill check that look like this :
 
