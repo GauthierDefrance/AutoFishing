@@ -36,3 +36,4 @@ setup(
     author_email='No Public Email',
     license='MIT',  # Licence de ton projet
 )
+
