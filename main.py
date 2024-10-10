@@ -9,7 +9,7 @@
 # Licence:     MIT
 #-------------------------------------------------------------------------------
 
-from ScannerIAcommented import *
+from lib.Scanner import *
 
 def main():
     start()

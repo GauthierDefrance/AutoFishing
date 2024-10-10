@@ -19,7 +19,7 @@ from torch.utils.data import DataLoader
 import numpy as np
 from shapely.geometry import Polygon
 from PIL import Image, ImageEnhance
-from CaptureEcran import *
+from lib.CaptureEcran import *
 import time
 
 class SimpleCNN(nn.Module):
