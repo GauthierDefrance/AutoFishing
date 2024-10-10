@@ -64,4 +64,4 @@ It should stop.
 
 - main.py 
 - Scanner.py
-- CaptureEcran.py
+- lib/CaptureEcran.py
