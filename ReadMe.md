@@ -17,6 +17,10 @@ the corresponding touch after 0.1 seconds.
 
 ## How to use the program ?
 
+The program need your game to be **ALWAYS** on screen.
+For the moment, it's better if you have two screens.
+One screen with your game, and another one with 
+
 ##### Warning
 
 You need to have Python installed on your computer and in path.
@@ -24,16 +28,13 @@ Here is the installer : https://www.python.org/downloads/windows/
 _You will have to click on the box add to path_
 
 
-The program need your game to be **ALWAYS** on screen.
-For the moment, it's better if you have two screens.
-One screen with your game, and another one with 
-
-
-
-
 ## How to start the program ?
 
 You can start the program by launching the **launch.bat** file.
+
+You may have a warning message from Windows defender poping on screen.
+It's normal, no the programs should normaly not harm your computer.
+The warning is because i'm not an official developper.
 
 Once you launched the program, he is waiting for you to press **Enter**.
 Then it will auto click when needed.
