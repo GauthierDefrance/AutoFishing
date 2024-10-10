@@ -24,6 +24,8 @@ One screen with your game, and another one with
 
 ## How to start the program ?
 
+You can start the program by launching the **launch.bat** file.
+
 Once you launched the program, he is waiting for you to press **Enter**.
 Then it will auto click when needed.
 
@@ -34,7 +36,7 @@ It should stop.
 
 # What do you need ?
 
-#### I made just for you : LibsAutoInstaller.py, just launch it and it will install all the libs you need.
+#### I made just for you : InstallMissingLibs.bat, just launch it and it will install all the libs you need.
 
 - Python installed in your machine + In PATH
 - Torch library
