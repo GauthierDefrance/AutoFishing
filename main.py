@@ -9,7 +9,7 @@
 # Licence:     MIT
 #-------------------------------------------------------------------------------
 
-from lib.Scanner import *
+from Scanner import *
 
 def main():
     start()
