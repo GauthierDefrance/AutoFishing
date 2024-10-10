@@ -13,9 +13,22 @@ The model will be called and asked to recognize what is the letter in the middle
 Once the letter has been predicted (it's not 100% probability), it will press in your game
 the corresponding touch after 0.1 seconds.
 
+## How to use the program ?
+
+The program need your game to be **ALWAYS** on screen.
+For the moment, it's better if you have two screens.
+One screen with your game, and another one with 
+
+
 ## How to start the program ?
 
 Once you launched the program, he is waiting for you to press **Enter**.
+Then it will auto click when needed.
+
+## How to stop the program ?
+
+If you want to stop the program press **Escape** during 1 secondes.
+It should stop.
 
 
 ## License
