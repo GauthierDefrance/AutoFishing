@@ -17,9 +17,18 @@ the corresponding touch after 0.1 seconds.
 
 ## How to use the program ?
 
+##### Warning
+
+You need to have Python installed on your computer and in path.
+Here is the installer : https://www.python.org/downloads/windows/
+_You will have to click on the box add to path_
+
+
 The program need your game to be **ALWAYS** on screen.
 For the moment, it's better if you have two screens.
 One screen with your game, and another one with 
+
+
 
 
 ## How to start the program ?
