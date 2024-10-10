@@ -34,15 +34,22 @@ It should stop.
 
 # What do you need ?
 
+#### I made just for you : LibsAutoInstaller.py, just launch it and it will install all the libs you need.
+
 - Python installed in your machine + In PATH
 - Torch library
 - torchvision
 - opencv-Python
+- PIL
 - numpy
 - shapely
 - pillow
+- pyautogui
+- pygetwindow
+- keyboard
 
+## Make sur that you have thoses files :
 
-## License
-
-MIT
+- main.py 
+- Scanner.py
+- CaptureEcran.py
