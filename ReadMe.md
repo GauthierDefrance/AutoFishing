@@ -2,6 +2,8 @@
 
 ### This programms can read skill check that look like this :
 
+_The programs won't work if you don't play in full screen + 1920x1080 pixels_
+
 ![SkillCheckExemple](/source/SkillCheckExemple.png)
 
 ### It will see them like that after a quick processing
@@ -29,6 +31,16 @@ Then it will auto click when needed.
 
 If you want to stop the program press **Escape** during 1 secondes.
 It should stop.
+
+# What do you need ?
+
+- Python installed in your machine + In PATH
+- Torch library
+- torchvision
+- opencv-Python
+- numpy
+- shapely
+- pillow
 
 
 ## License

@@ -12,7 +12,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my_package',  # Nom de ton package
+    name='AutoFishing_Five_M',  # Nom de ton package
     version='1.0.0',    # Version du package
     packages=find_packages(),  # Trouve tous les sous-packages
     install_requires=[
@@ -28,11 +28,11 @@ setup(
             'run_my_package = scripts.my_script:main',  # Lien vers ton script principal
         ],
     },
-    #description='A package for detecting letters Z, Q, S, D using PyTorch and OpenCV',
-    #long_description=open('README.md').read(),
-    #long_description_content_type='text/markdown',
-    url='https://github.com/tonnomdeutilisateur/my_package',  # URL vers le dépôt de ton projet (si applicable)
-    author='Ton Nom',
-    author_email='tonemail@example.com',
+    description='A package for detecting letters Z, Q, S, D using PyTorch and OpenCV',
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
+    url='https://github.com/GauthierDefrance/FIVE-M---AutoFishing',  # URL vers le dépôt de ton projet (si applicable)
+    author='Defrance',
+    author_email='No Public Email',
     license='MIT',  # Licence de ton projet
 )
