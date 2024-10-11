@@ -1,5 +1,7 @@
 # AutoFishing
 
+_Everything you need is on the zip called : StandAlone.zip_
+
 ### This programms can read skill check that look like this :
 
 _The programs won't work if you don't play in full screen + 1920x1080 pixels_
