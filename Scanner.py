@@ -55,7 +55,7 @@ model.eval()  # Switch to evaluation mode (disable dropout, batchnorm, etc.)
 # ----------------
 
 def start():
-    window_name = "FiveM "  # The starting name of the target window
+    window_name = "FiveM"  # The starting name of the target window
 
     # Wait for the user to press 'Enter' to start
     while (detect_key_press() != "enter"):
