@@ -15,9 +15,10 @@ from PIL import Image
 
 def getImage(window_title:str):
     """Prend en paramètre le nom de la fênétre actuelle. Ou un nom commençant par ça."""
+    
     window = gw.getWindowsWithTitle(window_title)[0]
     if window:
-        window.activate()
+        #window.activate()
         screenshot = pyautogui.screenshot(region=(window.left, window.top, window.width, window.height))
 
         width = 120  # width of the zone to cut
